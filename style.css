@@ -95,9 +95,9 @@ a:hover {
     background-color: var(--green);
     color: var(--gray900);
     transition: all 0.3s ease;
-    cursor: url('/assets/images/Vector\ \(2\).png'), auto;
+    cursor: url('./assets/images/Vector\ \(2\).png'), auto;
 }
 
 a:active {
-    cursor: url('/assets/images/Vector\ \(2\).png'), auto;
+    cursor: url('./assets/images/Vector\ \(2\).png'), auto;
 }
